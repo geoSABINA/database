@@ -19,21 +19,25 @@
 The `geoSABINA` dataframe provides a comprehensive, easy-to-use, and spatially explicit database to support ecological research and planning in mainland Spain. It integrates high-resolution spatial layers across four key collections:  
 
 - **Plants occurrence records:**  
-  Include precise and refined location records for 82 tree and 101 shrub native species, as well as an atlas of distribution for 6,456 vascular plants and XXX bryophytes.  
+  Including:  
+  1. Precise and refined location records for 82 tree species  
+  2. Precise and refined location records for 101 shrub species  
+  3. Atlas of distribution for 6,456 vascular plants
+  4. Atlas of distribution for XXX bryophytes.  
 
 - **Environmental variables:**  
   Encompass climatic, edaphic, hydrological, and solar exposure factors at 250-meter resolution.  
 
 - **Species distribution models:**  
-  Employ a spatially nested hierarchical approach with the `sabinaNSDM` package for trees and shrubs.  
+Employ a spatially nested hierarchical approach with the [`sabinaNSDM`](https://github.com/geoSABINA/sabinaNSDM) package for trees and shrubs.
 
 - **Thematic maps to guide conservation:**  
   Including:  
-  1. Biodiversity maps measuring woody and protected plant species richness,  
-  2. The distribution of the main vegetation types, and  
-  3. The importance of patches and corridors to promote forest connectivity.  
+  1. Biodiversity maps measuring woody and protected plant species richness  
+  2. The distribution of the main vegetation types  
+  3. The importance of patches and corridors to promote forest connectivity  
 
-The climatic variables, the species distribution models, and the thematic maps are projected both under current and four scenarios of future climate conditions (2070–2100).  
+The climatic variables, the species distribution models, and the thematic maps are projected under current and four scenarios of future climate conditions (2070–2100).  
 
 The `geoSABINA` database is openly available on Zenodo (LINK).  
 
