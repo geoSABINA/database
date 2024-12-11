@@ -7,7 +7,8 @@
 
 
 
-# geoSABINA: a unified ecological database for Spain
+# geoSABINA: 
+# a unified ecological database for Spain
 
 
 
@@ -28,6 +29,6 @@ The geoSABINA database is openly available on Zenodo (LINK).
 
 Here we provide the R-code allowing to reproduce the environmental variable download, the species distribution modelling, the thematic maps creation, and the technical validation of the resulting maps.
 
-### Citing geoSABINAdatabase
+### Citing geoSABINA database
 
 A research paper detailing the package details and functions is under review.
