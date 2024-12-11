@@ -18,16 +18,16 @@
 
 The `geoSABINA` dataframe provides a comprehensive, easy-to-use, and spatially explicit database to support ecological research and planning in mainland Spain. It integrates high-resolution spatial layers across four key collections:  
 
-- **(a) Plants occurrence records:**  
+- **Plants occurrence records:**  
   Include precise and refined location records for 82 tree and 101 shrub native species, as well as an atlas of distribution for 6,456 vascular plants and XXX bryophytes.  
 
-- **(b) Environmental variables:**  
+- **Environmental variables:**  
   Encompass climatic, edaphic, hydrological, and solar exposure factors at 250-meter resolution.  
 
-- **(c) Species distribution models:**  
+- **Species distribution models:**  
   Employ a spatially nested hierarchical approach with the `sabinaNSDM` package for trees and shrubs.  
 
-- **(d) Thematic maps to guide conservation:**  
+- **Thematic maps to guide conservation:**  
   Including:  
   1. Biodiversity maps measuring woody and protected plant species richness,  
   2. The distribution of the main vegetation types, and  
