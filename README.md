@@ -7,8 +7,7 @@
 
 
 
-# geoSABINA: 
-# a unified ecological database for Spain
+# geoSABINA database
 
 
 
