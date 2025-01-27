@@ -23,7 +23,7 @@ The `geoSABINA` dataframe provides a comprehensive, easy-to-use, and spatially e
   1. Precise and refined location records for 82 tree species  
   2. Precise and refined location records for 101 shrub species  
   3. Atlas of distribution for 6,456 vascular plants
-  4. Atlas of distribution for XXX bryophytes.  
+  4. Atlas of distribution for 1,252 bryophytes.  
 
 - **Environmental variables:**  
   Encompass climatic, edaphic, hydrological, and solar exposure factors at 250-meter resolution.  
