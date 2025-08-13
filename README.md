@@ -39,7 +39,7 @@ Employ a spatially nested hierarchical approach with the [`sabinaNSDM`](https://
 
 The climatic variables, the species distribution models, and the thematic maps are projected under current and four scenarios of future climate conditions (2070–2100).  
 
-The `geoSABINA` database is openly available on Zenodo (LINK).  
+The `geoSABINA` database is openly available on Zenodo ([LINK](https://zenodo.org/communities/geosabinadatabase/records?q=&l=list&p=1&s=10&sort=newest)).  
 
 Here we provide the R-code allowing to reproduce the environmental variable download, the species distribution modelling, the thematic maps creation, and the technical validation of the resulting maps.  
 
